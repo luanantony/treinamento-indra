@@ -5,6 +5,7 @@ com\indracompany\treinamento\config\ViewScope.class
 com\indracompany\treinamento\controller\rest\ClienteRest.class
 com\indracompany\treinamento\config\MyRequestContextListener.class
 com\indracompany\treinamento\config\DBConfigProperties.class
+com\indracompany\treinamento\controller\rest\ContaBancariaRest.class
 com\indracompany\treinamento\converters\CEPConverter.class
 com\indracompany\treinamento\swagger\ApiResponseMessage.class
 com\indracompany\treinamento\swagger\ApiOriginFilter.class
